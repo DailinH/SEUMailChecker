@@ -1,0 +1,8 @@
+{
+  "imap": {
+    "server": "imap.seu.edu.cn",
+    "user": "username",
+    "password": "password"
+  },
+  "interval": 5
+}
